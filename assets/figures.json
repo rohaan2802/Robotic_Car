@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Saved occupancy detail",
+    "category": "Mapping",
+    "caption": "Crop around classified cells in the original occupancy map.",
+    "full": "assets/screenshots/saved_occupancy_detail.png",
+    "preview": "assets/thumbs/saved_occupancy_detail.webp"
+  },
+  {
+    "title": "Synthetic mapping run",
+    "category": "Mapping",
+    "caption": "Eight deterministic range observations from two poses. This is a software demonstration.",
+    "full": "assets/screenshots/synthetic_mapping_run.png",
+    "preview": "assets/thumbs/synthetic_mapping_run.webp"
+  },
+  {
+    "title": "Manual range observation",
+    "category": "Mapping",
+    "caption": "A 22 cm observation at 45° is applied to the synthetic grid. The dashed line shows the newly added ray.",
+    "full": "assets/screenshots/manual_range_observation.png",
+    "preview": "assets/thumbs/manual_range_observation.webp"
+  },
+  {
+    "title": "Firmware motion expiry",
+    "category": "Source",
+    "caption": "The ESP8266 checks elapsed time and stops the motor outputs after a requested pulse.",
+    "full": "assets/screenshots/firmware_motion_expiry.png",
+    "preview": "assets/thumbs/firmware_motion_expiry.webp"
+  },
+  {
+    "title": "Workbench observation validation",
+    "category": "Source",
+    "caption": "The desktop workbench validates the pose and range before modifying the grid.",
+    "full": "assets/screenshots/workbench_observation_validation.png",
+    "preview": "assets/thumbs/workbench_observation_validation.webp"
+  },
+  {
+    "title": "Chassis design photos",
+    "category": "Report",
+    "caption": "Original report page 8 documents the physical chassis and assembly.",
+    "full": "assets/screenshots/chassis_design_photos.png",
+    "preview": "assets/thumbs/chassis_design_photos.webp"
+  },
+  {
+    "title": "Hardware demo frame 2",
+    "category": "Hardware",
+    "caption": "Frame at 22.1 seconds from the original hardware demonstration video.",
+    "full": "assets/screenshots/hardware_demo_frame_2.png",
+    "preview": "assets/thumbs/hardware_demo_frame_2.webp"
+  },
+  {
+    "title": "Hardware demo frame 3",
+    "category": "Hardware",
+    "caption": "Frame at 38.4 seconds from the original hardware demonstration video.",
+    "full": "assets/screenshots/hardware_demo_frame_3.png",
+    "preview": "assets/thumbs/hardware_demo_frame_3.webp"
+  },
+  {
+    "title": "Mounted hardware photos",
+    "category": "Report",
+    "caption": "Original report page 9 records the assembled hardware.",
+    "full": "assets/screenshots/mounted_hardware_photos.png",
+    "preview": "assets/thumbs/mounted_hardware_photos.webp"
+  },
+  {
+    "title": "Report mapping output",
+    "category": "Report",
+    "caption": "Original report page 24 shows captured software output.",
+    "full": "assets/screenshots/report_mapping_output.png",
+    "preview": "assets/thumbs/report_mapping_output.webp"
+  },
+  {
+    "title": "Report visualization excerpt",
+    "category": "Report",
+    "caption": "Original report page 25 preserves visual output from the semester project.",
+    "full": "assets/screenshots/report_visualization_excerpt.png",
+    "preview": "assets/thumbs/report_visualization_excerpt.webp"
+  },
+  {
+    "title": "Report demonstration montage",
+    "category": "Report",
+    "caption": "Original report page 26 collects demonstration visuals.",
+    "full": "assets/screenshots/report_demonstration_montage.png",
+    "preview": "assets/thumbs/report_demonstration_montage.webp"
+  },
+  {
+    "title": "Project workflow diagram",
+    "category": "Report",
+    "caption": "Original report page 28 illustrates the planned workflow.",
+    "full": "assets/screenshots/project_workflow_diagram.png",
+    "preview": "assets/thumbs/project_workflow_diagram.webp"
+  },
+  {
+    "title": "Saved occupancy overview",
+    "category": "Mapping",
+    "caption": "The original 500 × 500 probability grid, shown at full extent.",
+    "full": "assets/screenshots/saved_occupancy_overview.png",
+    "preview": "assets/thumbs/saved_occupancy_overview.webp"
+  },
+  {
+    "title": "Saved grid classification",
+    "category": "Mapping",
+    "caption": "Counts are computed from the saved grid at the documented 0.35 and 0.65 thresholds.",
+    "full": "assets/screenshots/saved_grid_classification.png",
+    "preview": "assets/thumbs/saved_grid_classification.webp"
+  },
+  {
+    "title": "Synthetic grid classification",
+    "category": "Mapping",
+    "caption": "Counts from the current mapper running the deterministic synthetic demo.",
+    "full": "assets/screenshots/synthetic_grid_classification.png",
+    "preview": "assets/thumbs/synthetic_grid_classification.webp"
+  },
+  {
+    "title": "Range-ray evidence",
+    "category": "Mapping",
+    "caption": "A 7 cm hit leaves cells beyond the endpoint unchanged.",
+    "full": "assets/screenshots/range_ray_evidence.png",
+    "preview": "assets/thumbs/range_ray_evidence.webp"
+  },
+  {
+    "title": "Chassis measurement worksheet",
+    "category": "Hardware",
+    "caption": "Excerpt from the archived CarMeasures workbook.",
+    "full": "assets/screenshots/chassis_measurement_worksheet.png",
+    "preview": "assets/thumbs/chassis_measurement_worksheet.webp"
+  },
+  {
+    "title": "NodeMCU pin assignments",
+    "category": "Hardware",
+    "caption": "Pin pairs follow the maintained NodeMCU sketch.",
+    "full": "assets/screenshots/nodemcu_pin_assignments.png",
+    "preview": "assets/thumbs/nodemcu_pin_assignments.webp"
+  },
+  {
+    "title": "Occupancy evidence update",
+    "category": "Source",
+    "caption": "Source excerpt showing per-ray deduplication and bounded Bayesian evidence.",
+    "full": "assets/screenshots/occupancy_evidence_update.png",
+    "preview": "assets/thumbs/occupancy_evidence_update.webp"
+  },
+  {
+    "title": "Python command validation",
+    "category": "Source",
+    "caption": "The HTTP client validates command names and pulse durations before dispatch.",
+    "full": "assets/screenshots/python_command_validation.png",
+    "preview": "assets/thumbs/python_command_validation.webp"
+  },
+  {
+    "title": "Range response parsing",
+    "category": "Source",
+    "caption": "Malformed and non-positive range values are represented as missing.",
+    "full": "assets/screenshots/range_response_parsing.png",
+    "preview": "assets/thumbs/range_response_parsing.webp"
+  },
+  {
+    "title": "HTTP control and telemetry",
+    "category": "Source",
+    "caption": "Request paths from the maintained ESP8266 interface.",
+    "full": "assets/screenshots/http_control_and_telemetry.png",
+    "preview": "assets/thumbs/http_control_and_telemetry.webp"
+  },
+  {
+    "title": "Mapping regression coverage",
+    "category": "Source",
+    "caption": "Behaviors exercised by the local Python regression suite.",
+    "full": "assets/screenshots/mapping_regression_coverage.png",
+    "preview": "assets/thumbs/mapping_regression_coverage.webp"
+  }
+]
